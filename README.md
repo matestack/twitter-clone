@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the finished code from the [Matestack Tutorial](https://docs.matestack.io/matestack-ui-core/getting-started/quick-start) that walks through building a reactive twitter clone using [Matestack](https://www.matestack.io) and pure ruby.
 
-Things you may want to cover:
+Links:
 
-* Ruby version
+- This repository: <https://github.com/matestack/twitter-clone>
+- Matestack: <https://www.matestack.io>
+- matestack-ui-core: <https://github.com/matestack/matestack-ui-core>
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
