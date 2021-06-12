@@ -1,0 +1,25 @@
+// Async loading state
+.matestack-async-component-container{
+
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+
+  &.loading {
+    opacity: 0;
+  }
+
+}
+
+// Page loading state
+.matestack-page-container{
+
+  .matestack-page-wrapper {
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+
+    &.loading {
+      opacity: 0;
+    }
+  }
+
+}
